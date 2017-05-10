@@ -10,3 +10,5 @@ Stat generation is likely completely flawed due to how gamy's stat information a
 Ribbon cards/Prism cards/Cards part of a set larger than 3: I have no clue how stat calculation works for them. Please contact me if you know how this works. 
 
 To use the crawler, you need to include the cookies necessary for login in order for the site scraping the work correctly.
+
+EDIT 5/10/2017: gamy seems to no longer be updating their site with new cards. The gfkari crawler, thus, is now outdated. A new version focusing on crawling data from gamedb and a few other select sources is in development, but due to the lack of information on these sites, the cards will have less pre-populated info.
