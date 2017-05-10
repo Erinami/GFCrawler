@@ -11,4 +11,4 @@ Ribbon cards/Prism cards/Cards part of a set larger than 3: I have no clue how s
 
 To use the crawler, you need to include the cookies necessary for login in order for the site scraping the work correctly.
 
-EDIT 5/10/2017: gamy seems to no longer be updating their site with new cards. The gfkari crawler, thus, is now outdated. A new version focusing on crawling data from gamedb and a few other select sources is in development, but due to the lack of information on these sites, the cards will have less pre-populated info.
+EDIT 5/10/2017: gamy seems to no longer be updating their site with new cards. Their last updated card was #8598, and are missing roughly 12 cards between 8400 and 8598 that had to be manually added. The gfkari crawler, thus, is now outdated. A new version focusing on crawling data from gamedb and a few other select sources is in development, but due to the lack of information on these sites, the cards will have less pre-populated info.
